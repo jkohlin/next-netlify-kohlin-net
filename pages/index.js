@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Välkommen till Johans sida!" />
         <p><a href="https://aakonst.se">Min vän Anna ❤️ och hennes konst<\a></p>
       </main>
 
