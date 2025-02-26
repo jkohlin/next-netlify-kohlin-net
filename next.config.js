@@ -28,5 +28,7 @@ module.exports = {
             )
             .catch(console.error);
         return path;
-    }
+    },
+    output: 'export',
+
 };
